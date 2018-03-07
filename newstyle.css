@@ -1,0 +1,33 @@
+body
+{
+  background-image: url(solar.jpg);
+  background-size: cover;
+}
+
+table
+{
+  border-collapse: collapse;
+  width: 100%;
+}
+img
+{
+  height: 150px;
+  width: 150px;
+  image-orientation: center;  
+}
+th, td
+{
+  font-family: cursive;
+  font-size: 22px;
+  padding: 10px;
+  color: white;
+  text-align: center;  
+}
+h1
+{
+  font-style: bold;
+  font-family: impact;
+  font-size: 38px;
+  color: purple;
+  text-align: center;
+}
